@@ -1,5 +1,9 @@
 Python implementation of a hidden markov model that uses the viterbi algorithm.
 
-icvtag.py is a toy example that runs on the corresponding tagging/ic* data. These datasets correspond with <a href='http://www.cs.jhu.edu/~jason/papers/eisner.hmm-viterbi.xls'> Jason Eisner's viterbi spreadsheet </a>, described <a href='http://www.cs.jhu.edu/~jason/papers/eisner.tnlp02.pdf'>here</a>.
+icvtag.py is a toy example that runs on the corresponding tagging/ic* data. These datasets correspond with Jason Eisner's viterbi spreadsheet, found here:
+http://www.cs.jhu.edu/~jason/papers/eisner.hmm-viterbi.xls 
+
+which is described here:
+http://www.cs.jhu.edu/~jason/papers/eisner.tnlp02.pdf
 
 vtag.py will run on the entraining/entest/endev data.
